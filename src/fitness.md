@@ -4,8 +4,6 @@
 
 _**视频来源：** YouTube [@7mlc](https://www.youtube.com/@7mlc/videos)_
 
-<div class="center-video">
-    <video controls>
-        <source src="./fitness.mp4" type="video/mp4">
-    </video>
-</div>
+<figure align="center">
+    <img src="./figures/fitness.jpg">
+</figure>
