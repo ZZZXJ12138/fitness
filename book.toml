@@ -1,0 +1,10 @@
+[book]
+title        = "足球体能训练"
+authors      = ["zz"]
+language     = "zh"
+multilingual = true
+src = "src"
+
+[output.html]
+mathjax-support = true
+git-repository-url = "https://zzzxj12138.github.io/index/"
